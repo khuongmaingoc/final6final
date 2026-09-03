@@ -8,7 +8,7 @@ import { createClient } from "@supabase/supabase-js";
 
 export const supabaseUrl = "https://wglexvrxjqbkyhxomsid.supabase.co";
 const supabaseKey =
-  "sb_publishable_2Jwn9mDZ2nTFOG-mXyRGNg__W23jbCW";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndnbGV4dnJ4anFia3loeG9tc2lkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg0MTUyNzgsImV4cCI6MjEwMzk5MTI3OH0.6AJ45d6i_my9Dg4frMiYsrbQg6C3zXLVePt1C28Br18";
 
   const supabase = createClient(supabaseUrl, supabaseKey);
 
