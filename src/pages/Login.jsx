@@ -17,7 +17,7 @@ function Login() {
   return (
     <LoginLayout>
       <Logo />
-      <Heading as="h4">Đăng nhập</Heading>
+      <Heading as="h4">Sơn BĐ - Bất động sản cho thuê</Heading>
       <LoginForm />
     </LoginLayout>
   );
